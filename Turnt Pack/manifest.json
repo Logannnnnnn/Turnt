@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "BEST PACK EVEERRRR",
+        "name": "TURNT UP PACK",
+        "uuid": "25e6b0e4-e059-45b9-8dbe-9f7495889b5b",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Created By iiEmotionless",
+            "type": "resources",
+            "uuid": "e9518068-d659-44a0-bbf8-9fba8e45afb3",
+            "version": [0, 0, 1]
+        }
+    ]
+}

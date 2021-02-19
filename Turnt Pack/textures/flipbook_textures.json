@@ -1,0 +1,7 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/mowtherite_ore",
+    "atlas_tile": "flashing",
+    "ticks_per_frame": 13
+  }
+]

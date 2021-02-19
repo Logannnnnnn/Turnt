@@ -1,0 +1,39 @@
+{
+  "format_version": [ 0, 0, 1 ],
+  "emore:tungsten_ore": {
+     "textures": "tungsten_ore",
+     "sound": "stone"
+  },
+  "emore:tin_ore": {
+   "textures": "tin_ore",
+   "sound": "stone"
+},
+  "emore:iridium_ore": {
+     "textures": "iridium_ore",
+     "sound": "stone"
+  },
+  "emore:end_fossil": {
+     "textures": "end_fossil",
+     "sound": "stone"
+  },
+  "emore:nether_fossil": {
+     "textures": "nether_fossil",
+     "sound": "stone"
+  },
+  "emore:overworld_fossil": {
+   "textures": "overworld_fossil",
+   "sound": "stone"
+},
+"emore:copper_ore": {
+   "textures": "copper_ore",
+   "sound": "stone"
+},
+"emore:aluminum_ore": {
+   "textures": "aluminum_ore",
+   "sound": "stone"
+},
+  "emore:mowtherite_ore": {
+   "textures": "flashing",
+   "sound": "glass"
+ }
+}

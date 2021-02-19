@@ -1,0 +1,16 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+   "tungsten_ore": { "textures": [ "textures/blocks/tungsten_ore" ] },
+   "iridium_ore": { "textures": [ "textures/blocks/iridium_ore" ] },
+   "end_fossil": { "textures": [ "textures/blocks/end_fossil" ] },
+   "nether_fossil": { "textures": [ "textures/blocks/nether_fossil" ] },
+   "overworld_fossil": { "textures": [ "textures/blocks/overworld_fossil" ] },
+   "tin_ore": { "textures": [ "textures/blocks/tin_ore" ] },
+   "aluminum_ore": { "textures": [ "textures/blocks/aluminum_ore" ] },
+   "copper_ore": { "textures": [ "textures/blocks/copper_ore" ] }
+}
+}

@@ -1,0 +1,49 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+   "test_emerald_helmet": {
+      "textures": "textures/items/emerald_helmet"
+      },
+      "test_emerald_chestplate": {
+         "textures": [
+            "textures/items/emerald_chestplate"
+         ]
+      },
+      "test_emerald_leggings": {
+         "textures": [
+            "textures/items/emerald_leggings"
+         ]
+      },
+      "test_emerald_boots": {
+         "textures": [
+            "textures/items/emerald_boots"
+         ]
+      },
+      "emerald_sword": {
+         "textures": [
+            "textures/items/emerald_sword"
+         ]
+      },
+      "emerald_axe": {
+         "textures": [
+            "textures/items/emerald_axe"
+         ]
+      },
+      "emerald_shovel": {
+         "textures": [
+            "textures/items/emerald_shovel"
+         ]
+      },
+      "emerald_pickaxe": {
+         "textures": [
+            "textures/items/emerald_pickaxe"
+         ]
+      },
+      "emerald_hoe": {
+         "textures": [
+            "textures/items/emerald_hoe"
+         ]
+      }
+   }
+}
